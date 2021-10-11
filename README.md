@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-victor-dos-santos-oliveira-520360155)
 
 ![Loureto GitHub stats](https://github-readme-stats.vercel.app/api?username=loureto&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loureto&theme=tokyonight&show_icons=true)](https://github.com/loureto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loureto&theme=tokyonight&show_icons=true)](https://github.com/loureto/github-readme-stats)
 
 
 
